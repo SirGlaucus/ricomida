@@ -1,0 +1,89 @@
+body * {
+    font-family: 'Cabin', sans-serif;
+}
+.nav__titulo {
+    font-family: 'Lobster', cursive;
+    font-size: 2.3rem;
+    font-weight: 400;
+}
+.navbar {
+    background-color: #373A3C;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+h1 {
+    color: #373A3C;
+}
+h3 {
+    color: #373A3C;
+}
+.boton__correo {
+    color: #373A3C;
+    border-color: #dddddd;
+}
+hr {
+    height: 2px;
+    background-color: black;
+}
+@media screen and (max-width: 771px) {
+    .align-derecha-small {
+        text-align: center;
+    }
+}
+.carru-img {
+    height: 180px;
+}
+.carousel-indicators {
+    top: 200px;
+}
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+.carousel .carousel-indicators li {
+    background-color: #373A3C31;
+}
+.carousel .carousel-indicators li.active {
+    background-color: #373A3C;
+}
+.texto-margenes * {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+.texto-tamaño {
+    font-size: 20px;
+}
+.newletter-size {
+    height: 534px;
+}
+.suscribete-size {
+    font-size: 40px;
+    font-weight: 700;
+}
+.suscribete2-size, .suscribete3-size {
+    font-size: 30px;
+}
+.suscribete3-size {
+    font-family: 'Lobster';
+}
+.news-margin {
+    padding-top: 140px;
+}
+footer {
+    height: 125;
+    background-color: #373A3C;
+}
+.footer-text {
+    font-family: 'Lobster';
+    font-size: 37px;
+}
+.button-largo {
+    width: 280px;
+}
+.popover {
+    background-color: #373A3C;
+    color: white;
+}
